@@ -4,7 +4,7 @@
         "per_page": 3,
         "total": 12,
         "total_items": 58,
-        "prev_url": "null",
+        "prev_url": null,
         "next_url": "https://reqres.in/api/users?page=3",
         "data": [
             {
