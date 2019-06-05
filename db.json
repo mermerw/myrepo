@@ -36,7 +36,7 @@
         "total": 12,
         "total_items": 58,
         "prev_url": "https://my-json-server.typicode.com/mermerw/myrepo/test",
-        "next_url": "null",
+        "next_url": null,
         "data": [
             {
                 "id": 7,
