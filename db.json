@@ -5,7 +5,7 @@
         "total": 12,
         "total_items": 58,
         "prev_url": null,
-        "next_url": "https://reqres.in/api/users?page=3",
+        "next_url": "https://my-json-server.typicode.com/mermerw/myrepo/test2",
         "data": [
             {
                 "id": 4,
@@ -23,6 +23,37 @@
             },
             {
                 "id": 6,
+                "email": "tracey.ramos@reqres.in",
+                "first_name": "Tracey",
+                "last_name": "Ramos",
+                "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
+            }
+        ]
+    }
+    "test2": {
+        "page": 2,
+        "per_page": 3,
+        "total": 12,
+        "total_items": 58,
+        "prev_url": "https://my-json-server.typicode.com/mermerw/myrepo/test",
+        "next_url": "null",
+        "data": [
+            {
+                "id": 7,
+                "email": "eve.holt@reqres.in",
+                "first_name": "Eve",
+                "last_name": "Holt",
+                "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg"
+            },
+            {
+                "id": 8,
+                "email": "charles.morris@reqres.in",
+                "first_name": "Charles",
+                "last_name": "Morris",
+                "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"
+            },
+            {
+                "id": 9,
                 "email": "tracey.ramos@reqres.in",
                 "first_name": "Tracey",
                 "last_name": "Ramos",
