@@ -29,7 +29,7 @@
                 "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
             }
         ]
-    }
+    },
     "test2": {
         "page": 2,
         "per_page": 3,
